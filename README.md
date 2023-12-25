@@ -24,19 +24,6 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="180"/>
-</div>
-<h3 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Connect with me:</h3>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/mohamed-essam-299932234">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.mohamed.essam.abdelkaream@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-essam-abdelkaream&theme=dark&hide_border=false)
@@ -47,15 +34,15 @@ _____________|','   ///_/-------------/   |
 <div  align="center">
 
   <a href="https://www.linkedin.com/in/mohamed-essam-299932234" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&color=black&logo=Linkedin&logoColor=0d91a3" alt="LinkedIn">
   </a>
   
   <a href="https://www.facebook.com/profile.php?id=100039770483094&mibextid=ZbWKwL">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&color=black&logo=Facebook&logoColor=blue" alt="Facebook">
   </a>
 
    <a href="https://www.mohamed.essam.abdelkaream@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat&color=black&logo=Gmail&logoColor=red" alt="Gmail">
   </a>
   
 </div>
@@ -63,7 +50,7 @@ _____________|','   ///_/-------------/   |
 
 
 
-##### Some of the technologies I have worked with
+##### Some of the technologies I have worked with:
 
 ![Dart](https://img.shields.io/badge/-Dart-0d91a3?&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-5dcede?&logo=flutter)
@@ -79,7 +66,9 @@ _____________|','   ///_/-------------/   |
 
 Please feel free to clone projects and raise issues if you think something could be better.
 
-Happy Coding! 😊<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-essam-abdelkaream&label=Profile%20views&color=0e75b6&style=flat" alt="Eslam0mansour" /> </p>
+
+
+Happy Coding! 😊
 
 <div align="center" width="50">
 
