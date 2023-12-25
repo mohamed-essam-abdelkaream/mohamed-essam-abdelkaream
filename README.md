@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Mohamed Essam </h1>
 <h3 align="center">A Mobile Application developer (Flutter) </h3>
  Know about my experiences [https://drive.google.com/file/d/1aJ0sdIuAewab1NQv3DpwlhRVr9Px8LMD/view?usp=drive_link]
@@ -40,7 +39,7 @@ _____________|','   ///_/-------------/   |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-essam-abdelkaream&show_icons=true&theme=tokyonight)
 
-<h2><i>Follow me:</i></h2>
+<h2><i>Connect with me:</i></h2>
 <div  align="center">
 
   <a href="https://www.linkedin.com/in/mohamed-essam-299932234" target="_blank">
